@@ -1,0 +1,14 @@
+C:\Users\naiade.lima\source\repos\PoC.GraphQL\PoC.GraphQL\bin\Debug\netcoreapp2.1\PoC.GraphQL.deps.json
+C:\Users\naiade.lima\source\repos\PoC.GraphQL\PoC.GraphQL\bin\Debug\netcoreapp2.1\PoC.GraphQL.runtimeconfig.json
+C:\Users\naiade.lima\source\repos\PoC.GraphQL\PoC.GraphQL\bin\Debug\netcoreapp2.1\PoC.GraphQL.runtimeconfig.dev.json
+C:\Users\naiade.lima\source\repos\PoC.GraphQL\PoC.GraphQL\bin\Debug\netcoreapp2.1\PoC.GraphQL.dll
+C:\Users\naiade.lima\source\repos\PoC.GraphQL\PoC.GraphQL\obj\Debug\netcoreapp2.1\PoC.GraphQL.csprojAssemblyReference.cache
+C:\Users\naiade.lima\source\repos\PoC.GraphQL\PoC.GraphQL\obj\Debug\netcoreapp2.1\PoC.GraphQL.csproj.CoreCompileInputs.cache
+C:\Users\naiade.lima\source\repos\PoC.GraphQL\PoC.GraphQL\obj\Debug\netcoreapp2.1\PoC.GraphQL.RazorAssemblyInfo.cache
+C:\Users\naiade.lima\source\repos\PoC.GraphQL\PoC.GraphQL\obj\Debug\netcoreapp2.1\PoC.GraphQL.RazorAssemblyInfo.cs
+C:\Users\naiade.lima\source\repos\PoC.GraphQL\PoC.GraphQL\obj\Debug\netcoreapp2.1\PoC.GraphQL.AssemblyInfoInputs.cache
+C:\Users\naiade.lima\source\repos\PoC.GraphQL\PoC.GraphQL\obj\Debug\netcoreapp2.1\PoC.GraphQL.AssemblyInfo.cs
+C:\Users\naiade.lima\source\repos\PoC.GraphQL\PoC.GraphQL\obj\Debug\netcoreapp2.1\PoC.GraphQL.RazorTargetAssemblyInfo.cache
+C:\Users\naiade.lima\source\repos\PoC.GraphQL\PoC.GraphQL\bin\Debug\netcoreapp2.1\PoC.GraphQL.pdb
+C:\Users\naiade.lima\source\repos\PoC.GraphQL\PoC.GraphQL\obj\Debug\netcoreapp2.1\PoC.GraphQL.dll
+C:\Users\naiade.lima\source\repos\PoC.GraphQL\PoC.GraphQL\obj\Debug\netcoreapp2.1\PoC.GraphQL.pdb
